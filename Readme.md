@@ -79,15 +79,15 @@ just keep checking back here to see if I've written any more.
 
 ## Copyrights
 
-I have borrowed some of the code, and lots of ideas, from the 
+We have borrowed some of the code, and lots of ideas, from the 
 [SubC](http://www.t3x.org/subc/) compiler written by Nils M Holm.
-His code is in the public domain. I think that my code is substantially
+His code is in the public domain. We think that my code is substantially
 different enough that I can apply a different license to my code.
 
 Unless otherwise noted,
 
- + all source code and scripts are (c) Warren Toomey under
+ + all source code and scripts are (c) [Radii Research](https://edu.radii.in/) under
    the GPL3 license.
  + all non-source code documents (e.g. English documents,
-   image files) are (c) Warren Toomey under the Creative
+   image files) are (c) [Aditya A Sen](https://github.com/AloyASen) under the Creative
    Commons BY-NC-SA 4.0 license.
